@@ -1,0 +1,13 @@
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.exe
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.deps.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.runtimeconfig.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.runtimeconfig.dev.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.dll
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\bin\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.pdb
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.AssemblyInfoInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.AssemblyInfo.cs
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.csproj.CoreCompileInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.dll
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.pdb
+E:\ASP.NET\EmployeeWagesComputations\EmployeeWageUsingSwitchCase\obj\Debug\netcoreapp3.1\EmployeeWageUsingSwitchCase.genruntimeconfig.cache

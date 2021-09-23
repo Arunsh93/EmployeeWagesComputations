@@ -1,0 +1,14 @@
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.exe
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.deps.json
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.runtimeconfig.json
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.runtimeconfig.dev.json
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.dll
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\bin\Debug\netcoreapp3.1\AddPartTimeEmployee.pdb
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.csproj.AssemblyReference.cache
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.AssemblyInfoInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.AssemblyInfo.cs
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.csproj.CoreCompileInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.dll
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.pdb
+E:\ASP.NET\EmployeeWagesComputations\AddPartTimeEmployee\obj\Debug\netcoreapp3.1\AddPartTimeEmployee.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.exe
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.deps.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.runtimeconfig.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.runtimeconfig.dev.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.dll
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\bin\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.pdb
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.csproj.AssemblyReference.cache
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.AssemblyInfoInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.AssemblyInfo.cs
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.csproj.CoreCompileInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.dll
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.pdb
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForHoursOrDay\obj\Debug\netcoreapp3.1\CalculateWagesForHoursOrDay.genruntimeconfig.cache

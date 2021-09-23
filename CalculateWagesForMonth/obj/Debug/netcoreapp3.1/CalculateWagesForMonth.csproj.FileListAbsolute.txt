@@ -1,0 +1,13 @@
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.exe
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.deps.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.runtimeconfig.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.runtimeconfig.dev.json
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.dll
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\bin\Debug\netcoreapp3.1\CalculateWagesForMonth.pdb
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.AssemblyInfoInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.AssemblyInfo.cs
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.csproj.CoreCompileInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.dll
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.pdb
+E:\ASP.NET\EmployeeWagesComputations\CalculateWagesForMonth\obj\Debug\netcoreapp3.1\CalculateWagesForMonth.genruntimeconfig.cache

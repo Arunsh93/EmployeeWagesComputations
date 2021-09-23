@@ -1,0 +1,13 @@
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.exe
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.deps.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.runtimeconfig.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.runtimeconfig.dev.json
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.dll
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\bin\Debug\netcoreapp3.1\EmployeeAttendence.pdb
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.AssemblyInfoInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.AssemblyInfo.cs
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.csproj.CoreCompileInputs.cache
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.dll
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.pdb
+E:\ASP.NET\EmployeeWagesComputations\EmployeeAttendence\obj\Debug\netcoreapp3.1\EmployeeAttendence.genruntimeconfig.cache
